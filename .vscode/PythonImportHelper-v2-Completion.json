@@ -211,6 +211,86 @@
         "documentation": {}
     },
     {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "joinedload",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
         "label": "date",
         "importPath": "datetime",
         "description": "datetime",
@@ -564,6 +644,86 @@
         "documentation": {}
     },
     {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Float",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Date",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
         "label": "Base",
         "importPath": "database",
         "description": "database",
@@ -758,6 +918,38 @@
         "documentation": {}
     },
     {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
         "label": "crud,",
         "kind": 6,
         "isExtraImport": true,
@@ -831,6 +1023,30 @@
         "documentation": {}
     },
     {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigDict",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
         "label": "List",
         "importPath": "typing",
         "description": "typing",
@@ -892,6 +1108,22 @@
         "description": "fastapi.testclient",
         "isExtraImport": true,
         "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
         "documentation": {}
     },
     {
@@ -1122,7 +1354,7 @@
         "kind": 2,
         "importPath": "chapter3.complete.crud",
         "description": "chapter3.complete.crud",
-        "peekOfCode": "def get_player(db: Session, player_id: int):\n    return db.query(models.Player).filter(\n        models.Player.player_id == player_id).first()\ndef get_players(db: Session, skip: int = 0, limit: int = 100, \n                min_last_changed_date: date = None, \n                last_name : str = None, first_name : str = None, ):\n    query = db.query(models.Player)\n    if min_last_changed_date:\n        query = query.filter(\n            models.Player.last_changed_date >= min_last_changed_date)",
+        "peekOfCode": "def get_player(db: Session, player_id: int):\n    return db.query(models.Player).filter(models.Player.player_id == player_id).first()\ndef get_players(\n    db: Session,\n    skip: int = 0,\n    limit: int = 100,\n    min_last_changed_date: date = None,\n    last_name: str = None,\n    first_name: str = None,\n):",
         "detail": "chapter3.complete.crud",
         "documentation": {}
     },
@@ -1131,7 +1363,7 @@
         "kind": 2,
         "importPath": "chapter3.complete.crud",
         "description": "chapter3.complete.crud",
-        "peekOfCode": "def get_players(db: Session, skip: int = 0, limit: int = 100, \n                min_last_changed_date: date = None, \n                last_name : str = None, first_name : str = None, ):\n    query = db.query(models.Player)\n    if min_last_changed_date:\n        query = query.filter(\n            models.Player.last_changed_date >= min_last_changed_date)\n    if first_name:\n        query = query.filter(models.Player.first_name == first_name)\n    if last_name:",
+        "peekOfCode": "def get_players(\n    db: Session,\n    skip: int = 0,\n    limit: int = 100,\n    min_last_changed_date: date = None,\n    last_name: str = None,\n    first_name: str = None,\n):\n    query = db.query(models.Player)\n    if min_last_changed_date:",
         "detail": "chapter3.complete.crud",
         "documentation": {}
     },
@@ -1140,7 +1372,7 @@
         "kind": 2,
         "importPath": "chapter3.complete.crud",
         "description": "chapter3.complete.crud",
-        "peekOfCode": "def get_performances(db: Session, skip: int = 0, limit: int = 100, \n                     min_last_changed_date: date = None):\n    query = db.query(models.Performance)\n    if min_last_changed_date:\n        query = query.filter(\n            models.Performance.last_changed_date >= min_last_changed_date)\n    return query.offset(skip).limit(limit).all()\ndef get_league(db: Session, league_id: int = None):\n    return db.query(models.League).filter(\n        models.League.league_id == league_id).first()",
+        "peekOfCode": "def get_performances(\n    db: Session, skip: int = 0, limit: int = 100, min_last_changed_date: date = None\n):\n    query = db.query(models.Performance)\n    if min_last_changed_date:\n        query = query.filter(\n            models.Performance.last_changed_date >= min_last_changed_date\n        )\n    return query.offset(skip).limit(limit).all()\ndef get_league(db: Session, league_id: int = None):",
         "detail": "chapter3.complete.crud",
         "documentation": {}
     },
@@ -1149,7 +1381,7 @@
         "kind": 2,
         "importPath": "chapter3.complete.crud",
         "description": "chapter3.complete.crud",
-        "peekOfCode": "def get_league(db: Session, league_id: int = None):\n    return db.query(models.League).filter(\n        models.League.league_id == league_id).first()\ndef get_leagues(db: Session, skip: int = 0, limit: int = 100,\n                 min_last_changed_date: date = None,league_name: str = None):\n    query = db.query(models.League\n                    ).options(joinedload(models.League.teams))\n    if min_last_changed_date:\n        query = query.filter(\n            models.League.last_changed_date >= min_last_changed_date)                              ",
+        "peekOfCode": "def get_league(db: Session, league_id: int = None):\n    return db.query(models.League).filter(models.League.league_id == league_id).first()\ndef get_leagues(\n    db: Session,\n    skip: int = 0,\n    limit: int = 100,\n    min_last_changed_date: date = None,\n    league_name: str = None,\n):\n    query = db.query(models.League).options(joinedload(models.League.teams))",
         "detail": "chapter3.complete.crud",
         "documentation": {}
     },
@@ -1158,7 +1390,7 @@
         "kind": 2,
         "importPath": "chapter3.complete.crud",
         "description": "chapter3.complete.crud",
-        "peekOfCode": "def get_leagues(db: Session, skip: int = 0, limit: int = 100,\n                 min_last_changed_date: date = None,league_name: str = None):\n    query = db.query(models.League\n                    ).options(joinedload(models.League.teams))\n    if min_last_changed_date:\n        query = query.filter(\n            models.League.last_changed_date >= min_last_changed_date)                              \n    if league_name: \n        query = query.filter(models.League.league_name == league_name)     \n    return query.offset(skip).limit(limit).all()",
+        "peekOfCode": "def get_leagues(\n    db: Session,\n    skip: int = 0,\n    limit: int = 100,\n    min_last_changed_date: date = None,\n    league_name: str = None,\n):\n    query = db.query(models.League).options(joinedload(models.League.teams))\n    if min_last_changed_date:\n        query = query.filter(models.League.last_changed_date >= min_last_changed_date)",
         "detail": "chapter3.complete.crud",
         "documentation": {}
     },
@@ -1167,7 +1399,7 @@
         "kind": 2,
         "importPath": "chapter3.complete.crud",
         "description": "chapter3.complete.crud",
-        "peekOfCode": "def get_teams(db: Session, skip: int = 0, limit: int = 100, \n              min_last_changed_date: date = None, \n              team_name: str = None, league_id: int = None):\n    query = db.query(models.Team)\n    if min_last_changed_date:\n        query = query.filter(\n            models.Team.last_changed_date >= min_last_changed_date)\n    if team_name: \n        query = query.filter(models.Team.team_name == team_name)\n    if league_id: ",
+        "peekOfCode": "def get_teams(\n    db: Session,\n    skip: int = 0,\n    limit: int = 100,\n    min_last_changed_date: date = None,\n    team_name: str = None,\n    league_id: int = None,\n):\n    query = db.query(models.Team)\n    if min_last_changed_date:",
         "detail": "chapter3.complete.crud",
         "documentation": {}
     },
@@ -1203,7 +1435,7 @@
         "kind": 5,
         "importPath": "chapter3.complete.database",
         "description": "chapter3.complete.database",
-        "peekOfCode": "SQLALCHEMY_DATABASE_URL = \"sqlite:///.fantasy_data.db\"\nengine = create_engine(\n    SQLALCHEMY_DATABASE_URL, connect_args={\"check_same_thread\": False}\n)\nsessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URL = \"sqlite:///.fantasy_data.db\"\nengine = create_engine(\n    SQLALCHEMY_DATABASE_URL, connect_args={\"check_same_thread\": False}\n)\nsessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
         "detail": "chapter3.complete.database",
         "documentation": {}
     },
@@ -1212,7 +1444,7 @@
         "kind": 5,
         "importPath": "chapter3.complete.database",
         "description": "chapter3.complete.database",
-        "peekOfCode": "engine = create_engine(\n    SQLALCHEMY_DATABASE_URL, connect_args={\"check_same_thread\": False}\n)\nsessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base",
+        "peekOfCode": "engine = create_engine(\n    SQLALCHEMY_DATABASE_URL, connect_args={\"check_same_thread\": False}\n)\nsessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
         "detail": "chapter3.complete.database",
         "documentation": {}
     },
@@ -1221,7 +1453,7 @@
         "kind": 5,
         "importPath": "chapter3.complete.database",
         "description": "chapter3.complete.database",
-        "peekOfCode": "sessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base",
+        "peekOfCode": "sessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
         "detail": "chapter3.complete.database",
         "documentation": {}
     },
@@ -1230,7 +1462,7 @@
         "kind": 5,
         "importPath": "chapter3.complete.database",
         "description": "chapter3.complete.database",
-        "peekOfCode": "Base = declarative_base",
+        "peekOfCode": "Base = declarative_base()",
         "detail": "chapter3.complete.database",
         "documentation": {}
     },
@@ -1284,7 +1516,7 @@
         "kind": 2,
         "importPath": "chapter3.complete.test_crud",
         "description": "chapter3.complete.test_crud",
-        "peekOfCode": "def db_session():\n    \"\"\"This starts a database session and closes it when done\"\"\"\n    session = SessionLocal()\n    yield session\n    session.close()\ndef test_get_player(db_session):\n    \"\"\"Tests you can get the first player\"\"\"\n    player = crud.get_player(db_session, player_id = 1001)\n    assert player.player_id == 1001\ndef test_get_players(db_session):",
+        "peekOfCode": "def db_session():\n    \"\"\"This starts a database session and closes it when done\"\"\"\n    session = SessionLocal()\n    yield session\n    session.close()\ndef test_get_player(db_session):\n    \"\"\"Tests you can get the first player\"\"\"\n    player = crud.get_player(db_session, player_id=1001)\n    assert player.player_id == 1001\ndef test_get_players(db_session):",
         "detail": "chapter3.complete.test_crud",
         "documentation": {}
     },
@@ -1293,7 +1525,7 @@
         "kind": 2,
         "importPath": "chapter3.complete.test_crud",
         "description": "chapter3.complete.test_crud",
-        "peekOfCode": "def test_get_player(db_session):\n    \"\"\"Tests you can get the first player\"\"\"\n    player = crud.get_player(db_session, player_id = 1001)\n    assert player.player_id == 1001\ndef test_get_players(db_session):\n    \"\"\"Tests that the count of players in the database is what is expected\"\"\"\n    players = crud.get_players(db_session, skip=0, limit=10000,\n                                min_last_changed_date=test_date)\n    assert len(players) == 1018\ndef test_get_players_by_name(db_session):",
+        "peekOfCode": "def test_get_player(db_session):\n    \"\"\"Tests you can get the first player\"\"\"\n    player = crud.get_player(db_session, player_id=1001)\n    assert player.player_id == 1001\ndef test_get_players(db_session):\n    \"\"\"Tests that the count of players in the database is what is expected\"\"\"\n    players = crud.get_players(\n        db_session, skip=0, limit=10000, min_last_changed_date=test_date\n    )\n    assert len(players) == 1018",
         "detail": "chapter3.complete.test_crud",
         "documentation": {}
     },
@@ -1302,7 +1534,7 @@
         "kind": 2,
         "importPath": "chapter3.complete.test_crud",
         "description": "chapter3.complete.test_crud",
-        "peekOfCode": "def test_get_players(db_session):\n    \"\"\"Tests that the count of players in the database is what is expected\"\"\"\n    players = crud.get_players(db_session, skip=0, limit=10000,\n                                min_last_changed_date=test_date)\n    assert len(players) == 1018\ndef test_get_players_by_name(db_session):\n    \"\"\"Tests that the count of players in the database is what is expected\"\"\"\n    players = crud.get_players(db_session, first_name=\"Bryce\", last_name=\"Young\")\n    assert len(players) == 1\n    assert players[0].player_id == 2009",
+        "peekOfCode": "def test_get_players(db_session):\n    \"\"\"Tests that the count of players in the database is what is expected\"\"\"\n    players = crud.get_players(\n        db_session, skip=0, limit=10000, min_last_changed_date=test_date\n    )\n    assert len(players) == 1018\ndef test_get_players_by_name(db_session):\n    \"\"\"Tests that the count of players in the database is what is expected\"\"\"\n    players = crud.get_players(db_session, first_name=\"Bryce\", last_name=\"Young\")\n    assert len(players) == 1",
         "detail": "chapter3.complete.test_crud",
         "documentation": {}
     },
@@ -1311,7 +1543,7 @@
         "kind": 2,
         "importPath": "chapter3.complete.test_crud",
         "description": "chapter3.complete.test_crud",
-        "peekOfCode": "def test_get_players_by_name(db_session):\n    \"\"\"Tests that the count of players in the database is what is expected\"\"\"\n    players = crud.get_players(db_session, first_name=\"Bryce\", last_name=\"Young\")\n    assert len(players) == 1\n    assert players[0].player_id == 2009\ndef test_get_all_performances(db_session):\n    \"\"\"Tests that the count of performances in the database is \n    what is expected - all the performances\"\"\"\n    performances = crud.get_performances(db_session, skip=0, limit=18000)\n    assert len(performances) == 17306",
+        "peekOfCode": "def test_get_players_by_name(db_session):\n    \"\"\"Tests that the count of players in the database is what is expected\"\"\"\n    players = crud.get_players(db_session, first_name=\"Bryce\", last_name=\"Young\")\n    assert len(players) == 1\n    assert players[0].player_id == 2009\ndef test_get_all_performances(db_session):\n    \"\"\"Tests that the count of performances in the database is\n    what is expected - all the performances\"\"\"\n    performances = crud.get_performances(db_session, skip=0, limit=18000)\n    assert len(performances) == 17306",
         "detail": "chapter3.complete.test_crud",
         "documentation": {}
     },
@@ -1320,7 +1552,7 @@
         "kind": 2,
         "importPath": "chapter3.complete.test_crud",
         "description": "chapter3.complete.test_crud",
-        "peekOfCode": "def test_get_all_performances(db_session):\n    \"\"\"Tests that the count of performances in the database is \n    what is expected - all the performances\"\"\"\n    performances = crud.get_performances(db_session, skip=0, limit=18000)\n    assert len(performances) == 17306\ndef test_get_new_performances(db_session):\n    \"\"\"Tests that the count of performances in the database is \n    what is expected\"\"\"\n    performances = crud.get_performances(db_session, skip=0, limit=10000, \n                                         min_last_changed_date=test_date)",
+        "peekOfCode": "def test_get_all_performances(db_session):\n    \"\"\"Tests that the count of performances in the database is\n    what is expected - all the performances\"\"\"\n    performances = crud.get_performances(db_session, skip=0, limit=18000)\n    assert len(performances) == 17306\ndef test_get_new_performances(db_session):\n    \"\"\"Tests that the count of performances in the database is\n    what is expected\"\"\"\n    performances = crud.get_performances(\n        db_session, skip=0, limit=10000, min_last_changed_date=test_date",
         "detail": "chapter3.complete.test_crud",
         "documentation": {}
     },
@@ -1329,7 +1561,7 @@
         "kind": 2,
         "importPath": "chapter3.complete.test_crud",
         "description": "chapter3.complete.test_crud",
-        "peekOfCode": "def test_get_new_performances(db_session):\n    \"\"\"Tests that the count of performances in the database is \n    what is expected\"\"\"\n    performances = crud.get_performances(db_session, skip=0, limit=10000, \n                                         min_last_changed_date=test_date)\n    assert len(performances) == 2711\ndef test_get_league(db_session):\n    \"\"\"Tests you can get a league\"\"\"\n    league = crud.get_league(db_session, league_id = 5002)\n    assert league.league_id == 5002",
+        "peekOfCode": "def test_get_new_performances(db_session):\n    \"\"\"Tests that the count of performances in the database is\n    what is expected\"\"\"\n    performances = crud.get_performances(\n        db_session, skip=0, limit=10000, min_last_changed_date=test_date\n    )\n    assert len(performances) == 2711\ndef test_get_league(db_session):\n    \"\"\"Tests you can get a league\"\"\"\n    league = crud.get_league(db_session, league_id=5002)",
         "detail": "chapter3.complete.test_crud",
         "documentation": {}
     },
@@ -1338,7 +1570,7 @@
         "kind": 2,
         "importPath": "chapter3.complete.test_crud",
         "description": "chapter3.complete.test_crud",
-        "peekOfCode": "def test_get_league(db_session):\n    \"\"\"Tests you can get a league\"\"\"\n    league = crud.get_league(db_session, league_id = 5002)\n    assert league.league_id == 5002\n    assert len(league.teams) == 8\ndef test_get_leagues(db_session):\n    \"\"\"Tests that the count of leagues in the database is what is expected\"\"\"\n    leagues = crud.get_leagues(db_session, skip=0, limit=10000, min_last_changed_date=test_date)\n    assert len(leagues) == 5\ndef test_get_teams(db_session):",
+        "peekOfCode": "def test_get_league(db_session):\n    \"\"\"Tests you can get a league\"\"\"\n    league = crud.get_league(db_session, league_id=5002)\n    assert league.league_id == 5002\n    assert len(league.teams) == 8\ndef test_get_leagues(db_session):\n    \"\"\"Tests that the count of leagues in the database is what is expected\"\"\"\n    leagues = crud.get_leagues(\n        db_session, skip=0, limit=10000, min_last_changed_date=test_date\n    )",
         "detail": "chapter3.complete.test_crud",
         "documentation": {}
     },
@@ -1347,7 +1579,7 @@
         "kind": 2,
         "importPath": "chapter3.complete.test_crud",
         "description": "chapter3.complete.test_crud",
-        "peekOfCode": "def test_get_leagues(db_session):\n    \"\"\"Tests that the count of leagues in the database is what is expected\"\"\"\n    leagues = crud.get_leagues(db_session, skip=0, limit=10000, min_last_changed_date=test_date)\n    assert len(leagues) == 5\ndef test_get_teams(db_session):\n    \"\"\"Tests that the count of teams in the database is what is expected\"\"\"\n    teams = crud.get_teams(db_session, skip=0, limit=10000, min_last_changed_date=test_date)\n    assert len(teams) == 20\ndef test_get_teams_for_one_league(db_session):\n    \"\"\"Tests that the count of teams in the database is what is expected\"\"\"",
+        "peekOfCode": "def test_get_leagues(db_session):\n    \"\"\"Tests that the count of leagues in the database is what is expected\"\"\"\n    leagues = crud.get_leagues(\n        db_session, skip=0, limit=10000, min_last_changed_date=test_date\n    )\n    assert len(leagues) == 5\ndef test_get_teams(db_session):\n    \"\"\"Tests that the count of teams in the database is what is expected\"\"\"\n    teams = crud.get_teams(\n        db_session, skip=0, limit=10000, min_last_changed_date=test_date",
         "detail": "chapter3.complete.test_crud",
         "documentation": {}
     },
@@ -1356,7 +1588,7 @@
         "kind": 2,
         "importPath": "chapter3.complete.test_crud",
         "description": "chapter3.complete.test_crud",
-        "peekOfCode": "def test_get_teams(db_session):\n    \"\"\"Tests that the count of teams in the database is what is expected\"\"\"\n    teams = crud.get_teams(db_session, skip=0, limit=10000, min_last_changed_date=test_date)\n    assert len(teams) == 20\ndef test_get_teams_for_one_league(db_session):\n    \"\"\"Tests that the count of teams in the database is what is expected\"\"\"\n    teams = crud.get_teams(db_session, league_id=5001)\n    assert len(teams) == 12\n    assert teams[0].league_id == 5001\ndef test_get_team_players(db_session):",
+        "peekOfCode": "def test_get_teams(db_session):\n    \"\"\"Tests that the count of teams in the database is what is expected\"\"\"\n    teams = crud.get_teams(\n        db_session, skip=0, limit=10000, min_last_changed_date=test_date\n    )\n    assert len(teams) == 20\ndef test_get_teams_for_one_league(db_session):\n    \"\"\"Tests that the count of teams in the database is what is expected\"\"\"\n    teams = crud.get_teams(db_session, league_id=5001)\n    assert len(teams) == 12",
         "detail": "chapter3.complete.test_crud",
         "documentation": {}
     },
@@ -1365,7 +1597,7 @@
         "kind": 2,
         "importPath": "chapter3.complete.test_crud",
         "description": "chapter3.complete.test_crud",
-        "peekOfCode": "def test_get_teams_for_one_league(db_session):\n    \"\"\"Tests that the count of teams in the database is what is expected\"\"\"\n    teams = crud.get_teams(db_session, league_id=5001)\n    assert len(teams) == 12\n    assert teams[0].league_id == 5001\ndef test_get_team_players(db_session):\n    \"\"\"Tests that a team record can retrieve players, and that 8 players are on the first team\"\"\"\n    first_team = crud.get_teams(db_session, skip=0, limit=1000, min_last_changed_date=test_date)[0]\n    assert len(first_team.players) == 7\n#test the count functions",
+        "peekOfCode": "def test_get_teams_for_one_league(db_session):\n    \"\"\"Tests that the count of teams in the database is what is expected\"\"\"\n    teams = crud.get_teams(db_session, league_id=5001)\n    assert len(teams) == 12\n    assert teams[0].league_id == 5001\ndef test_get_team_players(db_session):\n    \"\"\"Tests that a team record can retrieve players, and that 8 players are on the first team\"\"\"\n    first_team = crud.get_teams(\n        db_session, skip=0, limit=1000, min_last_changed_date=test_date\n    )[0]",
         "detail": "chapter3.complete.test_crud",
         "documentation": {}
     },
@@ -1374,7 +1606,7 @@
         "kind": 2,
         "importPath": "chapter3.complete.test_crud",
         "description": "chapter3.complete.test_crud",
-        "peekOfCode": "def test_get_team_players(db_session):\n    \"\"\"Tests that a team record can retrieve players, and that 8 players are on the first team\"\"\"\n    first_team = crud.get_teams(db_session, skip=0, limit=1000, min_last_changed_date=test_date)[0]\n    assert len(first_team.players) == 7\n#test the count functions\ndef test_get_player_count(db_session):\n    player_count = crud.get_player_count(db_session)\n    assert player_count == 1018\ndef test_get_team_count(db_session):\n    team_count = crud.get_team_count(db_session)",
+        "peekOfCode": "def test_get_team_players(db_session):\n    \"\"\"Tests that a team record can retrieve players, and that 8 players are on the first team\"\"\"\n    first_team = crud.get_teams(\n        db_session, skip=0, limit=1000, min_last_changed_date=test_date\n    )[0]\n    assert len(first_team.players) == 7\n# test the count functions\ndef test_get_player_count(db_session):\n    player_count = crud.get_player_count(db_session)\n    assert player_count == 1018",
         "detail": "chapter3.complete.test_crud",
         "documentation": {}
     },
@@ -1410,7 +1642,7 @@
         "kind": 5,
         "importPath": "chapter3.complete.test_crud",
         "description": "chapter3.complete.test_crud",
-        "peekOfCode": "test_date = date(2024,4,1)\n@pytest.fixture(scope=\"function\")\ndef db_session():\n    \"\"\"This starts a database session and closes it when done\"\"\"\n    session = SessionLocal()\n    yield session\n    session.close()\ndef test_get_player(db_session):\n    \"\"\"Tests you can get the first player\"\"\"\n    player = crud.get_player(db_session, player_id = 1001)",
+        "peekOfCode": "test_date = date(2024, 4, 1)\n@pytest.fixture(scope=\"function\")\ndef db_session():\n    \"\"\"This starts a database session and closes it when done\"\"\"\n    session = SessionLocal()\n    yield session\n    session.close()\ndef test_get_player(db_session):\n    \"\"\"Tests you can get the first player\"\"\"\n    player = crud.get_player(db_session, player_id=1001)",
         "detail": "chapter3.complete.test_crud",
         "documentation": {}
     },
@@ -1545,7 +1777,7 @@
         "kind": 2,
         "importPath": "chapter4.complete.main",
         "description": "chapter4.complete.main",
-        "peekOfCode": "def read_players(skip: int = 0, \n                 limit: int = 100, \n                 minimum_last_changed_date: date = None, \n                 first_name: str = None, \n                 last_name: str = None,\n                 db: Session = Depends(get_db)\n                 ):\n    players = crud.get_players(db, \n                skip=skip, \n                limit=limit, ",
+        "peekOfCode": "def read_players(\n    skip: int = 0,\n    limit: int = 100,\n    minimum_last_changed_date: date = None,\n    first_name: str = None,\n    last_name: str = None,\n    db: Session = Depends(get_db),\n):\n    players = crud.get_players(\n        db,",
         "detail": "chapter4.complete.main",
         "documentation": {}
     },
@@ -1554,7 +1786,7 @@
         "kind": 2,
         "importPath": "chapter4.complete.main",
         "description": "chapter4.complete.main",
-        "peekOfCode": "def read_player(player_id: int, \n                db: Session = Depends(get_db)):\n    player = crud.get_player(db, \n                             player_id=player_id)\n    if player is None:\n        raise HTTPException(status_code=404, \n                            detail=\"Player not found\")\n    return player\n@app.get(\"/v0/performances/\", \n         response_model=list[schemas.Performance])",
+        "peekOfCode": "def read_player(player_id: int, db: Session = Depends(get_db)):\n    player = crud.get_player(db, player_id=player_id)\n    if player is None:\n        raise HTTPException(status_code=404, detail=\"Player not found\")\n    return player\n@app.get(\"/v0/performances/\", response_model=list[schemas.Performance])\ndef read_performances(\n    skip: int = 0,\n    limit: int = 100,\n    minimum_last_changed_date: date = None,",
         "detail": "chapter4.complete.main",
         "documentation": {}
     },
@@ -1563,7 +1795,7 @@
         "kind": 2,
         "importPath": "chapter4.complete.main",
         "description": "chapter4.complete.main",
-        "peekOfCode": "def read_performances(skip: int = 0, \n                limit: int = 100, \n                minimum_last_changed_date: date = None, \n                db: Session = Depends(get_db)):\n    performances = crud.get_performances(db, \n                skip=skip, \n                limit=limit, \n                min_last_changed_date=minimum_last_changed_date)\n    return performances\n@app.get(\"/v0/leagues/{league_id}\", response_model=schemas.League)",
+        "peekOfCode": "def read_performances(\n    skip: int = 0,\n    limit: int = 100,\n    minimum_last_changed_date: date = None,\n    db: Session = Depends(get_db),\n):\n    performances = crud.get_performances(\n        db, skip=skip, limit=limit, min_last_changed_date=minimum_last_changed_date\n    )\n    return performances",
         "detail": "chapter4.complete.main",
         "documentation": {}
     },
@@ -1572,7 +1804,7 @@
         "kind": 2,
         "importPath": "chapter4.complete.main",
         "description": "chapter4.complete.main",
-        "peekOfCode": "def read_league(league_id: int,db: Session = Depends(get_db)):\n    league = crud.get_league(db, league_id = league_id)\n    if league is None:\n        raise HTTPException(status_code=404, detail=\"League not found\")\n    return league\n@app.get(\"/v0/leagues/\", response_model=list[schemas.League])\ndef read_leagues(skip: int = 0, \n                limit: int = 100, \n                minimum_last_changed_date: date = None, \n                league_name: str = None,",
+        "peekOfCode": "def read_league(league_id: int, db: Session = Depends(get_db)):\n    league = crud.get_league(db, league_id=league_id)\n    if league is None:\n        raise HTTPException(status_code=404, detail=\"League not found\")\n    return league\n@app.get(\"/v0/leagues/\", response_model=list[schemas.League])\ndef read_leagues(\n    skip: int = 0,\n    limit: int = 100,\n    minimum_last_changed_date: date = None,",
         "detail": "chapter4.complete.main",
         "documentation": {}
     },
@@ -1581,7 +1813,7 @@
         "kind": 2,
         "importPath": "chapter4.complete.main",
         "description": "chapter4.complete.main",
-        "peekOfCode": "def read_leagues(skip: int = 0, \n                limit: int = 100, \n                minimum_last_changed_date: date = None, \n                league_name: str = None,\n                db: Session = Depends(get_db)):\n    leagues = crud.get_leagues(db, \n                skip=skip, \n                limit=limit, \n                min_last_changed_date=minimum_last_changed_date, \n                league_name=league_name)",
+        "peekOfCode": "def read_leagues(\n    skip: int = 0,\n    limit: int = 100,\n    minimum_last_changed_date: date = None,\n    league_name: str = None,\n    db: Session = Depends(get_db),\n):\n    leagues = crud.get_leagues(\n        db,\n        skip=skip,",
         "detail": "chapter4.complete.main",
         "documentation": {}
     },
@@ -1590,7 +1822,7 @@
         "kind": 2,
         "importPath": "chapter4.complete.main",
         "description": "chapter4.complete.main",
-        "peekOfCode": "def read_teams(skip: int = 0, \n               limit: int = 100, \n               minimum_last_changed_date: date = None, \n               team_name: str = None, \n               league_id: int = None, \n               db: Session = Depends(get_db)):\n    teams = crud.get_teams(db, \n                skip=skip, \n                limit=limit, \n                min_last_changed_date=minimum_last_changed_date, ",
+        "peekOfCode": "def read_teams(\n    skip: int = 0,\n    limit: int = 100,\n    minimum_last_changed_date: date = None,\n    team_name: str = None,\n    league_id: int = None,\n    db: Session = Depends(get_db),\n):\n    teams = crud.get_teams(\n        db,",
         "detail": "chapter4.complete.main",
         "documentation": {}
     },
@@ -1599,7 +1831,7 @@
         "kind": 2,
         "importPath": "chapter4.complete.main",
         "description": "chapter4.complete.main",
-        "peekOfCode": "def get_count(db: Session = Depends(get_db)):\n    counts = schemas.Counts(\n        league_count = crud.get_league_count(db),\n        team_count = crud.get_team_count(db),\n        player_count = crud.get_player_count(db))\n    return counts",
+        "peekOfCode": "def get_count(db: Session = Depends(get_db)):\n    counts = schemas.Counts(\n        league_count=crud.get_league_count(db),\n        team_count=crud.get_team_count(db),\n        player_count=crud.get_player_count(db),\n    )\n    return counts",
         "detail": "chapter4.complete.main",
         "documentation": {}
     },
@@ -1662,7 +1894,7 @@
         "kind": 6,
         "importPath": "chapter4.complete.schemas",
         "description": "chapter4.complete.schemas",
-        "peekOfCode": "class Performance(BaseModel):\n    model_config = ConfigDict(from_attributes = True)\n    performance_id : int\n    player_id : int\n    week_number : str\n    fantasy_points : float\n    last_changed_date : date\nclass PlayerBase(BaseModel):\n    model_config = ConfigDict(from_attributes = True)    \n    player_id : int",
+        "peekOfCode": "class Performance(BaseModel):\n    model_config = ConfigDict(from_attributes=True)\n    performance_id: int\n    player_id: int\n    week_number: str\n    fantasy_points: float\n    last_changed_date: date\nclass PlayerBase(BaseModel):\n    model_config = ConfigDict(from_attributes=True)\n    player_id: int",
         "detail": "chapter4.complete.schemas",
         "documentation": {}
     },
@@ -1671,7 +1903,7 @@
         "kind": 6,
         "importPath": "chapter4.complete.schemas",
         "description": "chapter4.complete.schemas",
-        "peekOfCode": "class PlayerBase(BaseModel):\n    model_config = ConfigDict(from_attributes = True)    \n    player_id : int\n    gsis_id: str\n    first_name : str\n    last_name : str\n    position : str\n    last_changed_date : date\nclass Player(PlayerBase):\n    model_config = ConfigDict(from_attributes = True)",
+        "peekOfCode": "class PlayerBase(BaseModel):\n    model_config = ConfigDict(from_attributes=True)\n    player_id: int\n    gsis_id: str\n    first_name: str\n    last_name: str\n    position: str\n    last_changed_date: date\nclass Player(PlayerBase):\n    model_config = ConfigDict(from_attributes=True)",
         "detail": "chapter4.complete.schemas",
         "documentation": {}
     },
@@ -1680,7 +1912,7 @@
         "kind": 6,
         "importPath": "chapter4.complete.schemas",
         "description": "chapter4.complete.schemas",
-        "peekOfCode": "class Player(PlayerBase):\n    model_config = ConfigDict(from_attributes = True)\n    performances: List[Performance] = []\nclass TeamBase(BaseModel):\n    model_config = ConfigDict(from_attributes = True)\n    league_id : int\n    team_id : int\n    team_name : str\n    last_changed_date : date\nclass Team(TeamBase):",
+        "peekOfCode": "class Player(PlayerBase):\n    model_config = ConfigDict(from_attributes=True)\n    performances: List[Performance] = []\nclass TeamBase(BaseModel):\n    model_config = ConfigDict(from_attributes=True)\n    league_id: int\n    team_id: int\n    team_name: str\n    last_changed_date: date\nclass Team(TeamBase):",
         "detail": "chapter4.complete.schemas",
         "documentation": {}
     },
@@ -1689,7 +1921,7 @@
         "kind": 6,
         "importPath": "chapter4.complete.schemas",
         "description": "chapter4.complete.schemas",
-        "peekOfCode": "class TeamBase(BaseModel):\n    model_config = ConfigDict(from_attributes = True)\n    league_id : int\n    team_id : int\n    team_name : str\n    last_changed_date : date\nclass Team(TeamBase):\n    model_config = ConfigDict(from_attributes = True)\n    players: List[PlayerBase] = []\nclass League(BaseModel):",
+        "peekOfCode": "class TeamBase(BaseModel):\n    model_config = ConfigDict(from_attributes=True)\n    league_id: int\n    team_id: int\n    team_name: str\n    last_changed_date: date\nclass Team(TeamBase):\n    model_config = ConfigDict(from_attributes=True)\n    players: List[PlayerBase] = []\nclass League(BaseModel):",
         "detail": "chapter4.complete.schemas",
         "documentation": {}
     },
@@ -1698,7 +1930,7 @@
         "kind": 6,
         "importPath": "chapter4.complete.schemas",
         "description": "chapter4.complete.schemas",
-        "peekOfCode": "class Team(TeamBase):\n    model_config = ConfigDict(from_attributes = True)\n    players: List[PlayerBase] = []\nclass League(BaseModel):\n    model_config = ConfigDict(from_attributes = True)\n    league_id : int\n    league_name : str\n    scoring_type : str\n    last_changed_date : date\n    teams: List[TeamBase] = []",
+        "peekOfCode": "class Team(TeamBase):\n    model_config = ConfigDict(from_attributes=True)\n    players: List[PlayerBase] = []\nclass League(BaseModel):\n    model_config = ConfigDict(from_attributes=True)\n    league_id: int\n    league_name: str\n    scoring_type: str\n    last_changed_date: date\n    teams: List[TeamBase] = []",
         "detail": "chapter4.complete.schemas",
         "documentation": {}
     },
@@ -1707,7 +1939,7 @@
         "kind": 6,
         "importPath": "chapter4.complete.schemas",
         "description": "chapter4.complete.schemas",
-        "peekOfCode": "class League(BaseModel):\n    model_config = ConfigDict(from_attributes = True)\n    league_id : int\n    league_name : str\n    scoring_type : str\n    last_changed_date : date\n    teams: List[TeamBase] = []\nclass Counts(BaseModel):\n    league_count : int\n    team_count : int",
+        "peekOfCode": "class League(BaseModel):\n    model_config = ConfigDict(from_attributes=True)\n    league_id: int\n    league_name: str\n    scoring_type: str\n    last_changed_date: date\n    teams: List[TeamBase] = []\nclass Counts(BaseModel):\n    league_count: int\n    team_count: int",
         "detail": "chapter4.complete.schemas",
         "documentation": {}
     },
@@ -1716,7 +1948,7 @@
         "kind": 6,
         "importPath": "chapter4.complete.schemas",
         "description": "chapter4.complete.schemas",
-        "peekOfCode": "class Counts(BaseModel):\n    league_count : int\n    team_count : int\n    player_count : int",
+        "peekOfCode": "class Counts(BaseModel):\n    league_count: int\n    team_count: int\n    player_count: int",
         "detail": "chapter4.complete.schemas",
         "documentation": {}
     },
@@ -3077,6 +3309,564 @@
         "description": "chapter6.complete.test_main",
         "peekOfCode": "client = TestClient(app)\n# test the health check endpoint\ndef test_read_main():\n    response = client.get(\"/\")\n    assert response.status_code == 200\n    assert response.json() == {\"message\": \"API health check successful\"}\n# test /v0/players/\ndef test_read_players():\n    response = client.get(\"/v0/players/?skip=0&limit=10000\")\n    assert response.status_code == 200",
         "detail": "chapter6.complete.test_main",
+        "documentation": {}
+    },
+    {
+        "label": "get_player",
+        "kind": 2,
+        "importPath": "chapter6.crud",
+        "description": "chapter6.crud",
+        "peekOfCode": "def get_player(db: Session, player_id: int):\n    return db.query(models.Player).filter(\n        models.Player.player_id == player_id).first()\ndef get_players(db: Session, skip: int = 0, limit: int = 100, \n                min_last_changed_date: date = None, \n                last_name : str = None, first_name : str = None, ):\n    query = db.query(models.Player)\n    if min_last_changed_date:\n        query = query.filter(\n            models.Player.last_changed_date >= min_last_changed_date)",
+        "detail": "chapter6.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_players",
+        "kind": 2,
+        "importPath": "chapter6.crud",
+        "description": "chapter6.crud",
+        "peekOfCode": "def get_players(db: Session, skip: int = 0, limit: int = 100, \n                min_last_changed_date: date = None, \n                last_name : str = None, first_name : str = None, ):\n    query = db.query(models.Player)\n    if min_last_changed_date:\n        query = query.filter(\n            models.Player.last_changed_date >= min_last_changed_date)\n    if first_name:\n        query = query.filter(models.Player.first_name == first_name)\n    if last_name:",
+        "detail": "chapter6.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_performances",
+        "kind": 2,
+        "importPath": "chapter6.crud",
+        "description": "chapter6.crud",
+        "peekOfCode": "def get_performances(db: Session, skip: int = 0, limit: int = 100, \n                     min_last_changed_date: date = None):\n    query = db.query(models.Performance)\n    if min_last_changed_date:\n        query = query.filter(\n            models.Performance.last_changed_date >= min_last_changed_date)\n    return query.offset(skip).limit(limit).all()\ndef get_league(db: Session, league_id: int = None):\n    return db.query(models.League).filter(\n        models.League.league_id == league_id).first()",
+        "detail": "chapter6.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_league",
+        "kind": 2,
+        "importPath": "chapter6.crud",
+        "description": "chapter6.crud",
+        "peekOfCode": "def get_league(db: Session, league_id: int = None):\n    return db.query(models.League).filter(\n        models.League.league_id == league_id).first()\ndef get_leagues(db: Session, skip: int = 0, limit: int = 100,\n                 min_last_changed_date: date = None,league_name: str = None):\n    query = db.query(models.League\n                    ).options(joinedload(models.League.teams))\n    if min_last_changed_date:\n        query = query.filter(\n            models.League.last_changed_date >= min_last_changed_date)                              ",
+        "detail": "chapter6.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_leagues",
+        "kind": 2,
+        "importPath": "chapter6.crud",
+        "description": "chapter6.crud",
+        "peekOfCode": "def get_leagues(db: Session, skip: int = 0, limit: int = 100,\n                 min_last_changed_date: date = None,league_name: str = None):\n    query = db.query(models.League\n                    ).options(joinedload(models.League.teams))\n    if min_last_changed_date:\n        query = query.filter(\n            models.League.last_changed_date >= min_last_changed_date)                              \n    if league_name: \n        query = query.filter(models.League.league_name == league_name)     \n    return query.offset(skip).limit(limit).all()",
+        "detail": "chapter6.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_teams",
+        "kind": 2,
+        "importPath": "chapter6.crud",
+        "description": "chapter6.crud",
+        "peekOfCode": "def get_teams(db: Session, skip: int = 0, limit: int = 100, \n              min_last_changed_date: date = None, \n              team_name: str = None, league_id: int = None):\n    query = db.query(models.Team)\n    if min_last_changed_date:\n        query = query.filter(\n            models.Team.last_changed_date >= min_last_changed_date)\n    if team_name: \n        query = query.filter(models.Team.team_name == team_name)\n    if league_id: ",
+        "detail": "chapter6.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_player_count",
+        "kind": 2,
+        "importPath": "chapter6.crud",
+        "description": "chapter6.crud",
+        "peekOfCode": "def get_player_count(db: Session):\n    query = db.query(models.Player)\n    return query.count()\ndef get_team_count(db: Session):\n    query = db.query(models.Team)\n    return query.count()\ndef get_league_count(db: Session):\n    query = db.query(models.League)\n    return query.count()",
+        "detail": "chapter6.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_team_count",
+        "kind": 2,
+        "importPath": "chapter6.crud",
+        "description": "chapter6.crud",
+        "peekOfCode": "def get_team_count(db: Session):\n    query = db.query(models.Team)\n    return query.count()\ndef get_league_count(db: Session):\n    query = db.query(models.League)\n    return query.count()",
+        "detail": "chapter6.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_league_count",
+        "kind": 2,
+        "importPath": "chapter6.crud",
+        "description": "chapter6.crud",
+        "peekOfCode": "def get_league_count(db: Session):\n    query = db.query(models.League)\n    return query.count()",
+        "detail": "chapter6.crud",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URL",
+        "kind": 5,
+        "importPath": "chapter6.database",
+        "description": "chapter6.database",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URL = \"sqlite:///./fantasy_data.db\"\nengine = create_engine(\n    SQLALCHEMY_DATABASE_URL, connect_args={\"check_same_thread\": False}\n)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "chapter6.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "chapter6.database",
+        "description": "chapter6.database",
+        "peekOfCode": "engine = create_engine(\n    SQLALCHEMY_DATABASE_URL, connect_args={\"check_same_thread\": False}\n)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "chapter6.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "chapter6.database",
+        "description": "chapter6.database",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "chapter6.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "chapter6.database",
+        "description": "chapter6.database",
+        "peekOfCode": "Base = declarative_base()",
+        "detail": "chapter6.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "chapter6.main",
+        "description": "chapter6.main",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n@app.get(\n    \"/\",\n    summary=\"Check to see if the SWC fantasy football API is running\",\n    description=\"\"\"Use this endpoint to check if the API is running. You can also check it first before making other calls to be sure it's running.\"\"\",",
+        "detail": "chapter6.main",
+        "documentation": {}
+    },
+    {
+        "label": "read_players",
+        "kind": 2,
+        "importPath": "chapter6.main",
+        "description": "chapter6.main",
+        "peekOfCode": "def read_players(\n    skip: int = Query(\n        0, description=\"The number of items to skip at the beginning of API call.\"\n    ),\n    limit: int = Query(\n        100, description=\"The number of records to return after the skipped records.\"\n    ),\n    minimum_last_changed_date: date = Query(\n        None,\n        description=\"The minimum data of change that you want to return records. Exclude any records changed before this.\",",
+        "detail": "chapter6.main",
+        "documentation": {}
+    },
+    {
+        "label": "read_player",
+        "kind": 2,
+        "importPath": "chapter6.main",
+        "description": "chapter6.main",
+        "peekOfCode": "def read_player(player_id: int, db: Session = Depends(get_db)):\n    player = crud.get_player(db, player_id=player_id)\n    if player is None:\n        raise HTTPException(status_code=404, detail=\"Player not found\")\n    return player\n@app.get(\n    \"/v0/performances/\",\n    response_model=list[schemas.Performance],\n    summary=\"Get all the weekly performances that meet all the parameters you sent with your request\",\n    description=\"\"\"Use this endpoint to get lists of weekly performances by players in the SWC. You us the skip and limit to perform pagination of the API. Don't use the Performance ID for counting or logic, because that is an internal ID and is not guaranteed to be sequential\"\"\",",
+        "detail": "chapter6.main",
+        "documentation": {}
+    },
+    {
+        "label": "read_performances",
+        "kind": 2,
+        "importPath": "chapter6.main",
+        "description": "chapter6.main",
+        "peekOfCode": "def read_performances(\n    skip: int = Query(\n        0, description=\"The number of items to skip at the beginning of API call.\"\n    ),\n    limit: int = Query(\n        100, description=\"The number of records to return after the skipped records.\"\n    ),\n    minimum_last_changed_date: date = Query(\n        None,\n        description=\"The minimum data of change that you want to return records. Exclude any records changed before this.\",",
+        "detail": "chapter6.main",
+        "documentation": {}
+    },
+    {
+        "label": "read_league",
+        "kind": 2,
+        "importPath": "chapter6.main",
+        "description": "chapter6.main",
+        "peekOfCode": "def read_league(league_id: int, db: Session = Depends(get_db)):\n    league = crud.get_league(db, league_id=league_id)\n    if league is None:\n        raise HTTPException(status_code=404, detail=\"League not found\")\n    return league\n@app.get(\n    \"/v0/leagues/\",\n    response_model=list[schemas.League],\n    summary=\"Get all the SWC fantasy football leagues that match the parameters you send\",\n    description=\"\"\"Use this endpoint to get lists of SWC fantasy football leagues. You us the skip and limit to perform pagination of the API. League name is not guaranteed to be unique. Don't use the League ID for counting or logic, because that is an internal ID and is not guaranteed to be sequential\"\"\",",
+        "detail": "chapter6.main",
+        "documentation": {}
+    },
+    {
+        "label": "read_leagues",
+        "kind": 2,
+        "importPath": "chapter6.main",
+        "description": "chapter6.main",
+        "peekOfCode": "def read_leagues(\n    skip: int = Query(\n        0, description=\"The number of items to skip at the beginning of API call.\"\n    ),\n    limit: int = Query(\n        100, description=\"The number of records to return after the skipped records.\"\n    ),\n    minimum_last_changed_date: date = Query(\n        None,\n        description=\"The minimum data of change that you want to return records. Exclude any records changed before this.\",",
+        "detail": "chapter6.main",
+        "documentation": {}
+    },
+    {
+        "label": "read_teams",
+        "kind": 2,
+        "importPath": "chapter6.main",
+        "description": "chapter6.main",
+        "peekOfCode": "def read_teams(\n    skip: int = Query(\n        0, description=\"The number of items to skip at the beginning of API call.\"\n    ),\n    limit: int = Query(\n        100, description=\"The number of records to return after the skipped records.\"\n    ),\n    minimum_last_changed_date: date = Query(\n        None,\n        description=\"The minimum data of change that you want to return records. Exclude any records changed before this.\",",
+        "detail": "chapter6.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_count",
+        "kind": 2,
+        "importPath": "chapter6.main",
+        "description": "chapter6.main",
+        "peekOfCode": "def get_count(db: Session = Depends(get_db)):\n    counts = schemas.Counts(\n        league_count=crud.get_league_count(db),\n        team_count=crud.get_team_count(db),\n        player_count=crud.get_player_count(db),\n    )\n    return counts",
+        "detail": "chapter6.main",
+        "documentation": {}
+    },
+    {
+        "label": "api_description",
+        "kind": 5,
+        "importPath": "chapter6.main",
+        "description": "chapter6.main",
+        "peekOfCode": "api_description = \"\"\"\nThis API provides read-only access to info from the Sports World Central (SWC) Fantasy Football API. \nThe endpoints are grouped into the following categories:\n## Analytics\nGet information about health of the API and counts of leagues, teams, and players.\n## Player\nYou can get a list of an NFL players, or search for an individual player by player_id.\n## Scoring\nYou can get a list of NFL player performances, including the fantasy points they scored using SWC league scoring.\n## Membership",
+        "detail": "chapter6.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "chapter6.main",
+        "description": "chapter6.main",
+        "peekOfCode": "app = FastAPI(\n    description=api_description,\n    title=\"Sports World Central (SWC) Fantasy Football API\",\n    version=\"0.1\",\n)\n# Dependency\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db",
+        "detail": "chapter6.main",
+        "documentation": {}
+    },
+    {
+        "label": "Player",
+        "kind": 6,
+        "importPath": "chapter6.models",
+        "description": "chapter6.models",
+        "peekOfCode": "class Player(Base):\n    __tablename__ = \"player\"\n    player_id = Column(Integer, primary_key=True, index=True)\n    gsis_id = Column(String, nullable=True)\n    first_name = Column(String, nullable=False)\n    last_name = Column(String, nullable=False)\n    position = Column(String, nullable=False)\n    last_changed_date = Column(Date, nullable=False)\n    performances = relationship(\"Performance\", back_populates=\"player\")\n    # Many-to-many relationship between Player and Team tables",
+        "detail": "chapter6.models",
+        "documentation": {}
+    },
+    {
+        "label": "Performance",
+        "kind": 6,
+        "importPath": "chapter6.models",
+        "description": "chapter6.models",
+        "peekOfCode": "class Performance(Base):\n    __tablename__ = \"performance\"\n    performance_id = Column(Integer, primary_key=True, index=True)\n    week_number = Column(String, nullable=False)\n    fantasy_points = Column(Float, nullable=False)\n    last_changed_date = Column(Date, nullable=False)\n    player_id = Column(Integer, ForeignKey(\"player.player_id\"))\n    player = relationship(\"Player\", back_populates=\"performances\")\nclass League(Base):\n    __tablename__ = \"league\"",
+        "detail": "chapter6.models",
+        "documentation": {}
+    },
+    {
+        "label": "League",
+        "kind": 6,
+        "importPath": "chapter6.models",
+        "description": "chapter6.models",
+        "peekOfCode": "class League(Base):\n    __tablename__ = \"league\"\n    league_id = Column(Integer, primary_key=True, index=True)\n    league_name = Column(String, nullable=False)\n    scoring_type = Column(String, nullable=False)\n    last_changed_date = Column(Date, nullable=False)\n    teams = relationship(\"Team\", back_populates=\"league\")\nclass Team(Base):\n    __tablename__ = \"team\"\n    team_id = Column(Integer, primary_key=True, index=True)",
+        "detail": "chapter6.models",
+        "documentation": {}
+    },
+    {
+        "label": "Team",
+        "kind": 6,
+        "importPath": "chapter6.models",
+        "description": "chapter6.models",
+        "peekOfCode": "class Team(Base):\n    __tablename__ = \"team\"\n    team_id = Column(Integer, primary_key=True, index=True)\n    team_name = Column(String, nullable=False)\n    last_changed_date = Column(Date, nullable=False)    \n    league_id = Column(Integer, ForeignKey(\"league.league_id\"))\n    league = relationship(\"League\", back_populates=\"teams\")\n    players = relationship(\"Player\", secondary=\"team_player\", \n                           back_populates=\"teams\")\nclass TeamPlayer(Base):",
+        "detail": "chapter6.models",
+        "documentation": {}
+    },
+    {
+        "label": "TeamPlayer",
+        "kind": 6,
+        "importPath": "chapter6.models",
+        "description": "chapter6.models",
+        "peekOfCode": "class TeamPlayer(Base):\n    __tablename__ = \"team_player\"\n    team_id = Column(Integer, ForeignKey(\"team.team_id\"), \n                     primary_key=True, index=True)\n    player_id = Column(Integer, ForeignKey(\"player.player_id\"), \n                       primary_key=True, index=True)\n    last_changed_date = Column(Date, nullable=False)",
+        "detail": "chapter6.models",
+        "documentation": {}
+    },
+    {
+        "label": "Performance",
+        "kind": 6,
+        "importPath": "chapter6.schemas",
+        "description": "chapter6.schemas",
+        "peekOfCode": "class Performance(BaseModel):\n    model_config = ConfigDict(from_attributes = True)\n    performance_id : int\n    player_id : int\n    week_number : str\n    fantasy_points : float\n    last_changed_date : date\nclass PlayerBase(BaseModel):\n    model_config = ConfigDict(from_attributes = True)    \n    player_id : int",
+        "detail": "chapter6.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "PlayerBase",
+        "kind": 6,
+        "importPath": "chapter6.schemas",
+        "description": "chapter6.schemas",
+        "peekOfCode": "class PlayerBase(BaseModel):\n    model_config = ConfigDict(from_attributes = True)    \n    player_id : int\n    gsis_id: str\n    first_name : str\n    last_name : str\n    position : str\n    last_changed_date : date\nclass Player(PlayerBase):\n    model_config = ConfigDict(from_attributes = True)",
+        "detail": "chapter6.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Player",
+        "kind": 6,
+        "importPath": "chapter6.schemas",
+        "description": "chapter6.schemas",
+        "peekOfCode": "class Player(PlayerBase):\n    model_config = ConfigDict(from_attributes = True)\n    performances: List[Performance] = []\nclass TeamBase(BaseModel):\n    model_config = ConfigDict(from_attributes = True)\n    league_id : int\n    team_id : int\n    team_name : str\n    last_changed_date : date\nclass Team(TeamBase):",
+        "detail": "chapter6.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TeamBase",
+        "kind": 6,
+        "importPath": "chapter6.schemas",
+        "description": "chapter6.schemas",
+        "peekOfCode": "class TeamBase(BaseModel):\n    model_config = ConfigDict(from_attributes = True)\n    league_id : int\n    team_id : int\n    team_name : str\n    last_changed_date : date\nclass Team(TeamBase):\n    model_config = ConfigDict(from_attributes = True)\n    players: List[PlayerBase] = []\nclass League(BaseModel):",
+        "detail": "chapter6.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Team",
+        "kind": 6,
+        "importPath": "chapter6.schemas",
+        "description": "chapter6.schemas",
+        "peekOfCode": "class Team(TeamBase):\n    model_config = ConfigDict(from_attributes = True)\n    players: List[PlayerBase] = []\nclass League(BaseModel):\n    model_config = ConfigDict(from_attributes = True)\n    league_id : int\n    league_name : str\n    scoring_type : str\n    last_changed_date : date\n    teams: List[TeamBase] = []",
+        "detail": "chapter6.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "League",
+        "kind": 6,
+        "importPath": "chapter6.schemas",
+        "description": "chapter6.schemas",
+        "peekOfCode": "class League(BaseModel):\n    model_config = ConfigDict(from_attributes = True)\n    league_id : int\n    league_name : str\n    scoring_type : str\n    last_changed_date : date\n    teams: List[TeamBase] = []\nclass Counts(BaseModel):\n    league_count : int\n    team_count : int",
+        "detail": "chapter6.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Counts",
+        "kind": 6,
+        "importPath": "chapter6.schemas",
+        "description": "chapter6.schemas",
+        "peekOfCode": "class Counts(BaseModel):\n    league_count : int\n    team_count : int\n    player_count : int",
+        "detail": "chapter6.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "db_session",
+        "kind": 2,
+        "importPath": "chapter6.test_crud",
+        "description": "chapter6.test_crud",
+        "peekOfCode": "def db_session():\n    \"\"\"This starts a database session and closes it when done\"\"\"\n    session = SessionLocal()\n    yield session\n    session.close()\ndef test_get_player(db_session):\n    \"\"\"Tests you can get the first player\"\"\"\n    player = crud.get_player(db_session, player_id = 1001)\n    assert player.player_id == 1001\ndef test_get_players(db_session):",
+        "detail": "chapter6.test_crud",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_player",
+        "kind": 2,
+        "importPath": "chapter6.test_crud",
+        "description": "chapter6.test_crud",
+        "peekOfCode": "def test_get_player(db_session):\n    \"\"\"Tests you can get the first player\"\"\"\n    player = crud.get_player(db_session, player_id = 1001)\n    assert player.player_id == 1001\ndef test_get_players(db_session):\n    \"\"\"Tests that the count of players in the database is what is expected\"\"\"\n    players = crud.get_players(db_session, skip=0, limit=10000,\n                                min_last_changed_date=test_date)\n    assert len(players) == 1018\ndef test_get_players_by_name(db_session):",
+        "detail": "chapter6.test_crud",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_players",
+        "kind": 2,
+        "importPath": "chapter6.test_crud",
+        "description": "chapter6.test_crud",
+        "peekOfCode": "def test_get_players(db_session):\n    \"\"\"Tests that the count of players in the database is what is expected\"\"\"\n    players = crud.get_players(db_session, skip=0, limit=10000,\n                                min_last_changed_date=test_date)\n    assert len(players) == 1018\ndef test_get_players_by_name(db_session):\n    \"\"\"Tests that the count of players in the database is what is expected\"\"\"\n    players = crud.get_players(db_session, first_name=\"Bryce\", last_name=\"Young\")\n    assert len(players) == 1\n    assert players[0].player_id == 2009",
+        "detail": "chapter6.test_crud",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_players_by_name",
+        "kind": 2,
+        "importPath": "chapter6.test_crud",
+        "description": "chapter6.test_crud",
+        "peekOfCode": "def test_get_players_by_name(db_session):\n    \"\"\"Tests that the count of players in the database is what is expected\"\"\"\n    players = crud.get_players(db_session, first_name=\"Bryce\", last_name=\"Young\")\n    assert len(players) == 1\n    assert players[0].player_id == 2009\ndef test_get_all_performances(db_session):\n    \"\"\"Tests that the count of performances in the database is \n    what is expected - all the performances\"\"\"\n    performances = crud.get_performances(db_session, skip=0, limit=18000)\n    assert len(performances) == 17306",
+        "detail": "chapter6.test_crud",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_all_performances",
+        "kind": 2,
+        "importPath": "chapter6.test_crud",
+        "description": "chapter6.test_crud",
+        "peekOfCode": "def test_get_all_performances(db_session):\n    \"\"\"Tests that the count of performances in the database is \n    what is expected - all the performances\"\"\"\n    performances = crud.get_performances(db_session, skip=0, limit=18000)\n    assert len(performances) == 17306\ndef test_get_new_performances(db_session):\n    \"\"\"Tests that the count of performances in the database is \n    what is expected\"\"\"\n    performances = crud.get_performances(db_session, skip=0, limit=10000, \n                                         min_last_changed_date=test_date)",
+        "detail": "chapter6.test_crud",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_new_performances",
+        "kind": 2,
+        "importPath": "chapter6.test_crud",
+        "description": "chapter6.test_crud",
+        "peekOfCode": "def test_get_new_performances(db_session):\n    \"\"\"Tests that the count of performances in the database is \n    what is expected\"\"\"\n    performances = crud.get_performances(db_session, skip=0, limit=10000, \n                                         min_last_changed_date=test_date)\n    assert len(performances) == 2711\ndef test_get_league(db_session):\n    \"\"\"Tests you can get a league\"\"\"\n    league = crud.get_league(db_session, league_id = 5002)\n    assert league.league_id == 5002",
+        "detail": "chapter6.test_crud",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_league",
+        "kind": 2,
+        "importPath": "chapter6.test_crud",
+        "description": "chapter6.test_crud",
+        "peekOfCode": "def test_get_league(db_session):\n    \"\"\"Tests you can get a league\"\"\"\n    league = crud.get_league(db_session, league_id = 5002)\n    assert league.league_id == 5002\n    assert len(league.teams) == 8\ndef test_get_leagues(db_session):\n    \"\"\"Tests that the count of leagues in the database is what is expected\"\"\"\n    leagues = crud.get_leagues(db_session, skip=0, limit=10000, min_last_changed_date=test_date)\n    assert len(leagues) == 5\ndef test_get_teams(db_session):",
+        "detail": "chapter6.test_crud",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_leagues",
+        "kind": 2,
+        "importPath": "chapter6.test_crud",
+        "description": "chapter6.test_crud",
+        "peekOfCode": "def test_get_leagues(db_session):\n    \"\"\"Tests that the count of leagues in the database is what is expected\"\"\"\n    leagues = crud.get_leagues(db_session, skip=0, limit=10000, min_last_changed_date=test_date)\n    assert len(leagues) == 5\ndef test_get_teams(db_session):\n    \"\"\"Tests that the count of teams in the database is what is expected\"\"\"\n    teams = crud.get_teams(db_session, skip=0, limit=10000, min_last_changed_date=test_date)\n    assert len(teams) == 20\ndef test_get_teams_for_one_league(db_session):\n    \"\"\"Tests that the count of teams in the database is what is expected\"\"\"",
+        "detail": "chapter6.test_crud",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_teams",
+        "kind": 2,
+        "importPath": "chapter6.test_crud",
+        "description": "chapter6.test_crud",
+        "peekOfCode": "def test_get_teams(db_session):\n    \"\"\"Tests that the count of teams in the database is what is expected\"\"\"\n    teams = crud.get_teams(db_session, skip=0, limit=10000, min_last_changed_date=test_date)\n    assert len(teams) == 20\ndef test_get_teams_for_one_league(db_session):\n    \"\"\"Tests that the count of teams in the database is what is expected\"\"\"\n    teams = crud.get_teams(db_session, league_id=5001)\n    assert len(teams) == 12\n    assert teams[0].league_id == 5001\ndef test_get_team_players(db_session):",
+        "detail": "chapter6.test_crud",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_teams_for_one_league",
+        "kind": 2,
+        "importPath": "chapter6.test_crud",
+        "description": "chapter6.test_crud",
+        "peekOfCode": "def test_get_teams_for_one_league(db_session):\n    \"\"\"Tests that the count of teams in the database is what is expected\"\"\"\n    teams = crud.get_teams(db_session, league_id=5001)\n    assert len(teams) == 12\n    assert teams[0].league_id == 5001\ndef test_get_team_players(db_session):\n    \"\"\"Tests that a team record can retrieve players, and that 8 players are on the first team\"\"\"\n    first_team = crud.get_teams(db_session, skip=0, limit=1000, min_last_changed_date=test_date)[0]\n    assert len(first_team.players) == 7\n#test the count functions",
+        "detail": "chapter6.test_crud",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_team_players",
+        "kind": 2,
+        "importPath": "chapter6.test_crud",
+        "description": "chapter6.test_crud",
+        "peekOfCode": "def test_get_team_players(db_session):\n    \"\"\"Tests that a team record can retrieve players, and that 8 players are on the first team\"\"\"\n    first_team = crud.get_teams(db_session, skip=0, limit=1000, min_last_changed_date=test_date)[0]\n    assert len(first_team.players) == 7\n#test the count functions\ndef test_get_player_count(db_session):\n    player_count = crud.get_player_count(db_session)\n    assert player_count == 1018\ndef test_get_team_count(db_session):\n    team_count = crud.get_team_count(db_session)",
+        "detail": "chapter6.test_crud",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_player_count",
+        "kind": 2,
+        "importPath": "chapter6.test_crud",
+        "description": "chapter6.test_crud",
+        "peekOfCode": "def test_get_player_count(db_session):\n    player_count = crud.get_player_count(db_session)\n    assert player_count == 1018\ndef test_get_team_count(db_session):\n    team_count = crud.get_team_count(db_session)\n    assert team_count == 20\ndef test_get_league_count(db_session):\n    league_count = crud.get_league_count(db_session)\n    assert league_count == 5",
+        "detail": "chapter6.test_crud",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_team_count",
+        "kind": 2,
+        "importPath": "chapter6.test_crud",
+        "description": "chapter6.test_crud",
+        "peekOfCode": "def test_get_team_count(db_session):\n    team_count = crud.get_team_count(db_session)\n    assert team_count == 20\ndef test_get_league_count(db_session):\n    league_count = crud.get_league_count(db_session)\n    assert league_count == 5",
+        "detail": "chapter6.test_crud",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_league_count",
+        "kind": 2,
+        "importPath": "chapter6.test_crud",
+        "description": "chapter6.test_crud",
+        "peekOfCode": "def test_get_league_count(db_session):\n    league_count = crud.get_league_count(db_session)\n    assert league_count == 5",
+        "detail": "chapter6.test_crud",
+        "documentation": {}
+    },
+    {
+        "label": "test_date",
+        "kind": 5,
+        "importPath": "chapter6.test_crud",
+        "description": "chapter6.test_crud",
+        "peekOfCode": "test_date = date(2024,4,1)\n@pytest.fixture(scope=\"function\")\ndef db_session():\n    \"\"\"This starts a database session and closes it when done\"\"\"\n    session = SessionLocal()\n    yield session\n    session.close()\ndef test_get_player(db_session):\n    \"\"\"Tests you can get the first player\"\"\"\n    player = crud.get_player(db_session, player_id = 1001)",
+        "detail": "chapter6.test_crud",
+        "documentation": {}
+    },
+    {
+        "label": "test_read_main",
+        "kind": 2,
+        "importPath": "chapter6.test_main",
+        "description": "chapter6.test_main",
+        "peekOfCode": "def test_read_main():\n    response = client.get(\"/\")\n    assert response.status_code == 200\n    assert response.json() == {\"message\": \"API health check successful\"}\n# test /v0/players/\ndef test_read_players():\n    response = client.get(\"/v0/players/?skip=0&limit=10000\")\n    assert response.status_code == 200\n    assert len(response.json()) == 1018\ndef test_read_players_by_name():",
+        "detail": "chapter6.test_main",
+        "documentation": {}
+    },
+    {
+        "label": "test_read_players",
+        "kind": 2,
+        "importPath": "chapter6.test_main",
+        "description": "chapter6.test_main",
+        "peekOfCode": "def test_read_players():\n    response = client.get(\"/v0/players/?skip=0&limit=10000\")\n    assert response.status_code == 200\n    assert len(response.json()) == 1018\ndef test_read_players_by_name():\n    response = client.get(\"/v0/players/?first_name=Bryce&last_name=Young\")\n    assert response.status_code == 200\n    assert len(response.json()) == 1\n    assert response.json()[0].get(\"player_id\") == 2009\n# test /v0/players/{player_id}/",
+        "detail": "chapter6.test_main",
+        "documentation": {}
+    },
+    {
+        "label": "test_read_players_by_name",
+        "kind": 2,
+        "importPath": "chapter6.test_main",
+        "description": "chapter6.test_main",
+        "peekOfCode": "def test_read_players_by_name():\n    response = client.get(\"/v0/players/?first_name=Bryce&last_name=Young\")\n    assert response.status_code == 200\n    assert len(response.json()) == 1\n    assert response.json()[0].get(\"player_id\") == 2009\n# test /v0/players/{player_id}/\ndef test_read_players_with_id():\n    response = client.get(\"/v0/players/1001/\")\n    assert response.status_code == 200\n    assert response.json().get(\"player_id\") == 1001",
+        "detail": "chapter6.test_main",
+        "documentation": {}
+    },
+    {
+        "label": "test_read_players_with_id",
+        "kind": 2,
+        "importPath": "chapter6.test_main",
+        "description": "chapter6.test_main",
+        "peekOfCode": "def test_read_players_with_id():\n    response = client.get(\"/v0/players/1001/\")\n    assert response.status_code == 200\n    assert response.json().get(\"player_id\") == 1001\n# test /v0/performances/\ndef test_read_performances():\n    response = client.get(\"/v0/performances/?skip=0&limit=20000\")\n    assert response.status_code == 200\n    assert len(response.json()) == 17306\n# test /v0/performances/ with changed date",
+        "detail": "chapter6.test_main",
+        "documentation": {}
+    },
+    {
+        "label": "test_read_performances",
+        "kind": 2,
+        "importPath": "chapter6.test_main",
+        "description": "chapter6.test_main",
+        "peekOfCode": "def test_read_performances():\n    response = client.get(\"/v0/performances/?skip=0&limit=20000\")\n    assert response.status_code == 200\n    assert len(response.json()) == 17306\n# test /v0/performances/ with changed date\ndef test_read_performances_by_date():\n    response = client.get(\n        \"/v0/performances/?skip=0&limit=20000&minimum_last_changed_date=2024-04-01\"\n    )\n    assert response.status_code == 200",
+        "detail": "chapter6.test_main",
+        "documentation": {}
+    },
+    {
+        "label": "test_read_performances_by_date",
+        "kind": 2,
+        "importPath": "chapter6.test_main",
+        "description": "chapter6.test_main",
+        "peekOfCode": "def test_read_performances_by_date():\n    response = client.get(\n        \"/v0/performances/?skip=0&limit=20000&minimum_last_changed_date=2024-04-01\"\n    )\n    assert response.status_code == 200\n    assert len(response.json()) == 2711\n# test /v0/leagues/{league_id}/\ndef test_read_leagues_with_id():\n    response = client.get(\"/v0/leagues/5002/\")\n    assert response.status_code == 200",
+        "detail": "chapter6.test_main",
+        "documentation": {}
+    },
+    {
+        "label": "test_read_leagues_with_id",
+        "kind": 2,
+        "importPath": "chapter6.test_main",
+        "description": "chapter6.test_main",
+        "peekOfCode": "def test_read_leagues_with_id():\n    response = client.get(\"/v0/leagues/5002/\")\n    assert response.status_code == 200\n    assert len(response.json()[\"teams\"]) == 8\n# test /v0/leagues/\ndef test_read_leagues():\n    response = client.get(\"/v0/leagues/?skip=0&limit=500\")\n    assert response.status_code == 200\n    assert len(response.json()) == 5\n# test /v0/teams/",
+        "detail": "chapter6.test_main",
+        "documentation": {}
+    },
+    {
+        "label": "test_read_leagues",
+        "kind": 2,
+        "importPath": "chapter6.test_main",
+        "description": "chapter6.test_main",
+        "peekOfCode": "def test_read_leagues():\n    response = client.get(\"/v0/leagues/?skip=0&limit=500\")\n    assert response.status_code == 200\n    assert len(response.json()) == 5\n# test /v0/teams/\ndef test_read_teams():\n    response = client.get(\"/v0/teams/?skip=0&limit=500\")\n    assert response.status_code == 200\n    assert len(response.json()) == 20\n# test /v0/teams/",
+        "detail": "chapter6.test_main",
+        "documentation": {}
+    },
+    {
+        "label": "test_read_teams",
+        "kind": 2,
+        "importPath": "chapter6.test_main",
+        "description": "chapter6.test_main",
+        "peekOfCode": "def test_read_teams():\n    response = client.get(\"/v0/teams/?skip=0&limit=500\")\n    assert response.status_code == 200\n    assert len(response.json()) == 20\n# test /v0/teams/\ndef test_read_teams_for_one_league():\n    response = client.get(\"/v0/teams/?skip=0&limit=500&league_id=5001\")\n    assert response.status_code == 200\n    assert len(response.json()) == 12\n# test the count functions",
+        "detail": "chapter6.test_main",
+        "documentation": {}
+    },
+    {
+        "label": "test_read_teams_for_one_league",
+        "kind": 2,
+        "importPath": "chapter6.test_main",
+        "description": "chapter6.test_main",
+        "peekOfCode": "def test_read_teams_for_one_league():\n    response = client.get(\"/v0/teams/?skip=0&limit=500&league_id=5001\")\n    assert response.status_code == 200\n    assert len(response.json()) == 12\n# test the count functions\ndef test_counts():\n    response = client.get(\"/v0/counts/\")\n    response_data = response.json()\n    assert response.status_code == 200\n    assert response_data[\"league_count\"] == 5",
+        "detail": "chapter6.test_main",
+        "documentation": {}
+    },
+    {
+        "label": "test_counts",
+        "kind": 2,
+        "importPath": "chapter6.test_main",
+        "description": "chapter6.test_main",
+        "peekOfCode": "def test_counts():\n    response = client.get(\"/v0/counts/\")\n    response_data = response.json()\n    assert response.status_code == 200\n    assert response_data[\"league_count\"] == 5\n    assert response_data[\"team_count\"] == 20\n    assert response_data[\"player_count\"] == 1018",
+        "detail": "chapter6.test_main",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "chapter6.test_main",
+        "description": "chapter6.test_main",
+        "peekOfCode": "client = TestClient(app)\n# test the health check endpoint\ndef test_read_main():\n    response = client.get(\"/\")\n    assert response.status_code == 200\n    assert response.json() == {\"message\": \"API health check successful\"}\n# test /v0/players/\ndef test_read_players():\n    response = client.get(\"/v0/players/?skip=0&limit=10000\")\n    assert response.status_code == 200",
+        "detail": "chapter6.test_main",
         "documentation": {}
     },
     {
